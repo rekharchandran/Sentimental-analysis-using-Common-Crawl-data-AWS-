@@ -1,4 +1,4 @@
-# sentimental-analysis-using-Sentiment-Analysis-using-Common-Crawl-data
+# sentimental-analysis-using-Common-Crawl-data
 ### Introduction
 Sentiment analysis is a process that filters opinions, emotions from texts, tweets and other sources of natural languages.
 ### Objective
