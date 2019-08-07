@@ -19,7 +19,7 @@ AWS is a reliable, scalable, and inexpensive platform for the use of cloud appli
 The Amazon Elastic Compute Cloud (EC2) is a web-based service that enables you to run application programs in the Amazon computing environment. EC2 can serve as a practically unlimited set of virtual machines. 
 
 ### General Overview of the Data
-This information has been extracted from the Common Crawl repository through Amazon Web Services , using Hadoop and MapReduce technologies. The information extracted was raw sentiment counts from individual web pages.
+This information has been extracted from the Common Crawl repository through Amazon Web Services , using Hadoop framework and MapReduce technologies. The information extracted was raw sentiment counts from individual web pages.
 
 ### Data Preparation
 •	Used EMR to collect the web data to analyze the general sentiment towards the smart Phones and complied it into a csv file called the Large Matrix
