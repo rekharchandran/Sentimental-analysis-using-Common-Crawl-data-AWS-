@@ -14,7 +14,7 @@ Using the cloud computing platform provided by Amazon Web Services
 •	To help them narrow their list down to one device, the project  examine the prevalence of positive and negative attitudes toward these devices on the web. 
 
 ### Why AWS
-AWS is a reliable, scalable, and inexpensive platform for the use of cloud applications and services and it will give you easy access to web data through one management console. The specific AWS services that you will be employing include Elastic Compute Cloud (EC2), Elastic MapReduce (EMR), and Simple Storage Service (S3). 
+AWS is reliable, scalable, and inexpensive platform for the use of cloud applications and services and it will give you easy access to web data through one management console. The specific AWS services that you will be employing include Elastic Compute Cloud (EC2), Elastic MapReduce (EMR), and Simple Storage Service (S3). 
 
 The Amazon Elastic Compute Cloud (EC2) is a web-based service that enables you to run application programs in the Amazon computing environment. EC2 can serve as a practically unlimited set of virtual machines. 
 
