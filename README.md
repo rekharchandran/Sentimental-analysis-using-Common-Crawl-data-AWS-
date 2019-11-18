@@ -2,7 +2,10 @@
 ### Introduction
 Sentiment analysis is a process that filters opinions, emotions from texts, tweets and other sources of natural languages.
 ### Objective
-
+Using the cloud computing platform provided by Amazon Web Services 
+1) Collect and develop a data matrix in the range of 20 thousand instances of relevant web documents from the Common Crawl .
+ 2) Create a model to predict Sentiment analysis between Iphone and Samsung Galaxy. 
+ 
  ### Project Background
  •	A government health agency needs to create a suite of smart phone medical apps for use by aid workers in developing countries and these apps will enable the aid workers to manage local health conditions by facilitating communication with medical professionals located elsewhere. 
  
