@@ -23,8 +23,11 @@ This information has been extracted from the Common Crawl repository through Ama
 
 ### Data Preparation
 •	Used EMR to collect the web data to analyze the general sentiment towards the smart Phones and complied it into a csv file called the Large Matrix
+
 •	This involved first running the mapper and reducer scripts on one WET file of Common Crawl data in EMR using the EMR console
+
 •	Then ran the scripts in EMR on 255 Common Crawl WET files using the EMR Command Line Interface. 
+
 •	Then using concatenating script to compile the Common Crawl data collected and to create the Large Matrix.
 
 ### Predective Models
