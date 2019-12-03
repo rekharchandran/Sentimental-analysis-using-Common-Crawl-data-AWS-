@@ -41,7 +41,8 @@ Accuracy : 0.79306  and Kappa : 0.6076 .
                       
 ### Results for Samsung Galaxy                      
  Like in the case of iPhone, The random forest tree algorithms provided a good performance .
-                         Accuracy : 0.8017 and Kappa : 0.60707 
+ 
+ Accuracy : 0.8017 and Kappa : 0.60707 
                          
 ### Conclusions
 •	Sentiment distribution indicates that iphone has more good postive reviews.
