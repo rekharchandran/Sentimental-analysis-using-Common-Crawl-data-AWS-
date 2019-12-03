@@ -36,7 +36,8 @@ The models used are  C5.0, KKNN, SVM  and RandomForest
 
 ### Results for iPhone
 The random forest tree algorithms provided a good performance compared with other classifiers  approaches such as SVM, KKNN and C50
-                      Accuracy : 0.79306  and Kappa : 0.6076 .
+
+Accuracy : 0.79306  and Kappa : 0.6076 .
                       
 ### Results for Samsung Galaxy                      
  Like in the case of iPhone, The random forest tree algorithms provided a good performance .
