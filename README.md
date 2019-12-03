@@ -26,9 +26,9 @@ This information has been extracted from the Common Crawl repository through Ama
 
 •	This involved first running the mapper and reducer scripts on one WET file of Common Crawl data in EMR using the EMR console
 
-•	Then ran the scripts in EMR on 255 Common Crawl WET files using the EMR Command Line Interface. 
+• Ran the scripts in EMR on 255 Common Crawl WET files using the EMR Command Line Interface. 
 
-•	Then using concatenating script to compile the Common Crawl data collected and to create the Large Matrix.
+•	using concatenating script to compile the Common Crawl data collected and to create the Large Matrix.
 
 ### Predective Models
 One optimized model is used to predict the overall sentiment toward iPhones and one optimized model to predict overall sentiment toward Samsung Galaxy handsets. 
