@@ -51,11 +51,11 @@ Accuracy : 0.79306  and Kappa : 0.6076 .
 
  An attempt was made to find out out every combination of feature subsets using  RFE function with random forest and the returned final list of recommended features  are as below;
  
-   for iphone 
+ #### for iphone 
    
  The top 5 variables for Iphone  (out of 11): Iphone, google android,  Samsung galaxy, Iphone dispos, HTC phone.
  
-  For Galaxy
+  #### For Galaxy
   
 The top 5 variables  for Galaxy were Iphone, google android, Samsung galaxy, Iphone dispos, Iphone disunc
 
